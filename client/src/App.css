@@ -1,0 +1,82 @@
+header{
+  text-align: center;
+}
+header h1{
+  font-size: 60px;
+  color: #2c3e50;
+  font-weight:400;
+}
+.App-bottom{
+  width:90%;
+  margin: 0 auto ;
+}
+input{
+  font-size: 20px;
+  color:#2c3e50;
+  width:100%;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid #2c3e50;
+  padding:5px;
+}
+.link{
+  background-color: #34495e;
+  padding:15px;
+  margin:5px;
+  list-style: none;
+  border-radius: 5px;
+  cursor: pointer;
+  overflow-x: hidden;
+}
+.link span{
+  color: #fff;
+}
+.icons{
+  float:right;
+  margin-right: 20px;  
+}
+article{
+  display:flex;
+  
+}
+.article-sidebar{
+  width:20%;
+  border-right:1px solid black;
+  height: 100vh;
+  padding-top: 15px;
+}
+.button{
+  width:100%;
+  margin-bottom:5px;
+  padding:10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 14px;
+  cursor: pointer;
+  background-color: #fff;
+  color:#6c6777;
+}
+.button.selected{
+  color:#fff;
+  background-color: #6c6777;
+}
+.article-links{
+  width:75%;
+  padding-top: 15px;
+}
+.visitIcon{
+  color:#fff;
+  width:20px;
+  height:20px;
+  margin-left: 10px;
+  vertical-align: middle;
+}
+.edit-link{
+  width:85%;
+  font-size: 16px;
+  color:#fff;
+  background-color: transparent;
+  border:none;
+  border-bottom:1px solid #fff;
+
+}
