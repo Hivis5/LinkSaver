@@ -5,7 +5,8 @@ The above Project uses ReactJS, MongoDB, Express and NodeJS
 
 
 For the Login and Signup CSS MUI has been Used
-Bcrypt,Jsonwebtocken,axios
+
+Bcrypt, Jsonwebtocken, axios are some of the dependencies used
 
 The App Features
 1) Will we able to save the link
